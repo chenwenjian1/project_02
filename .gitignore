@@ -1,5 +1,5 @@
-#忽略git.css这个文件
-git.css
+# 忽略git.js这个文件
+git.js
 
 #忽略test目录下所有的文件
 test/
